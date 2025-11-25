@@ -3,5 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../VariablesTest1/VariablesTest1.vcxproj" Id="87fd3c1f-f7e8-46c0-8e8d-56146bd98b9f" />
+  <Project Path="../VariablesTest2/VariablesTest2.vcxproj" Id="2c018df4-4858-42b5-b578-c600c7a748fa" />
+  <Project Path="../VariablesTest3/VariablesTest3.vcxproj" Id="58618a6a-2efc-4872-a6d4-e2ab6caf74c9" />
+  <Project Path="../ตัวอย่างโปรแกรม/ตัวอย่างโปรแกรม.vcxproj" Id="b58d1022-2a6e-43d0-b4d1-e6c3e35aba32" />
   <Project Path="TEST01.vcxproj" Id="1cebf68c-61ce-4a0c-a847-70d72377dc1a" />
 </Solution>
