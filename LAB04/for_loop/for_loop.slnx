@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Code1-100/Code1-100.vcxproj" Id="97207d0a-177d-4729-a590-596cfd456ca0" />
+  <Project Path="../Code2-20/Code2-20.vcxproj" Id="951adfb7-26cf-43f5-af53-48d12aa60901" />
+  <Project Path="../Line Following Robot/Line Following Robot.vcxproj" Id="b7ba30db-7645-401c-858c-beef33a1e706" />
+  <Project Path="../ฟังก์ชันตรวจสอบจำนนวนเฉพราะ/ฟังก์ชันตรวจสอบจำนนวนเฉพราะ.vcxproj" Id="278802f3-afbb-41f9-aeae-66f1844e2a60" />
+  <Project Path="../สร้างโปรแกรมเกมทายเลข/สร้างโปรแกรมเกมทายเลข.vcxproj" Id="53f5206f-8193-4e33-86eb-8070478878f6" />
+  <Project Path="../เขียนนโปรแกรมสร้างตารางสูตรคูณ/เขียนนโปรแกรมสร้างตารางสูตรคูณ.vcxproj" Id="e4681e90-d1fe-470c-beb8-a5a28ad92da9" />
+  <Project Path="for_loop.vcxproj" Id="975218e2-16f8-41cc-8d04-fc67d406706b" />
+</Solution>
