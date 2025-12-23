@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Array2มิติ/Array2มิติ.vcxproj" Id="6ddeb452-f79f-4589-ab39-ddd0716e8a9e" />
+  <Project Path="../DynamicArray/DynamicArray.vcxproj" Id="ee3a2f62-acd5-488a-9d97-ad6589d2ffcc" />
+  <Project Path="../Test 06/Test 06.vcxproj" Id="c43e67ee-aeae-437c-b5af-ca47105780fe" />
+  <Project Path="../yesArray/yesArray.vcxproj" Id="863c92a8-c4f6-404a-b123-c7b234f0dbae" />
+  <Project Path="NoArray.vcxproj" Id="74284a3d-17d8-48e9-91d1-57583c6478d5" />
+</Solution>
