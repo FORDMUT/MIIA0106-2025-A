@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Address/Address.vcxproj" />
+  <Project Path="../DescendingSort/DescendingSort.vcxproj" />
+  <Project Path="../PointerorArray/PointerorArray.vcxproj" />
+  <Project Path="../Swap/Swap.vcxproj" />
+  <Project Path="../เปลี่ยนค่าผ่านPointer/เปลี่ยนค่าผ่านPointer.vcxproj" />
+  <Project Path="pointer.vcxproj" />
+</Solution>
