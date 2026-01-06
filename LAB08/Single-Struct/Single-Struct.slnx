@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Array+SortByID/Array+SortByID.vcxproj" />
+  <Project Path="../Array-of-Struct/Array-of-Struct.vcxproj" />
+  <Project Path="../Nested-Struct/Nested-Struct.vcxproj" />
+  <Project Path="../Pointer/Pointer.vcxproj" />
+  <Project Path="../ส่งStructกับfunction/ส่งStructกับfunction.vcxproj" />
+  <Project Path="../เขียนโปรแกรมรับข้อมูล/เขียนโปรแกรมรับข้อมูล.vcxproj" />
+  <Project Path="Single-Struct.vcxproj" />
+</Solution>
